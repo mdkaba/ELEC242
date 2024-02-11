@@ -1,2 +1,2 @@
-# ELEC242
+# ELEC 242
 Continuous-Time Signals and Systems
